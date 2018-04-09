@@ -58,3 +58,59 @@ Plot:  ===> T'Challa, the King of Wakanda, rises to the throne in the isolated, 
 
 ====== LIRI ====== LIRI ====== LIRI ====== LIRI====== LIRI ====== LIRI ======
 
+ ----------------- LIRI Gathered Movie Data for you ----------------- 
+
+
+                            Title: Black Panther
+
+                            Year: 2018
+
+                            Imdb Rating: 7.8
+
+                            Country: USA
+
+                            Language: Swahili, Nama, English, Xhosa, Korean
+
+                            Rotten Tomatoes Rating: undefined
+
+                            Rotten Tomatoes URL: undefined
+
+
+
+
+                            ***[MORE INFO BELOW]*** 
+
+
+
+Actors: ===> Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira
+
+Plot:  ===> T'Challa, the King of Wakanda, rises to the throne in the isolated, technologically advanced African nation, but his claim is challenged by a vengeful outsider who was a childhood victim of T'Challa's father's mistake.
+
+----------------WHO NEEDS OMDB WHEN YOU GOT LIRI-------------------------
+
+
+
+              ================= USER, USER LOOK WHAT LIRI FOUND ==================
+
+              Song Name: 'SHAGGY IT WASN'T ME'
+
+              Album Name: The Boombastic Collection - Best of Shaggy
+
+              Artist Name: Shaggy
+
+              URL: https://open.spotify.com/album/04bMI1jl7CB82LkdeHXyEo
+
+
+
+
+              ================= USER, USER LOOK WHAT LIRI FOUND ==================
+
+              Song Name: 'SHAGGY IT WASN'T ME'
+
+              Album Name: The Boombastic Collection - Best of Shaggy
+
+              Artist Name: Shaggy
+
+              URL: https://open.spotify.com/album/04bMI1jl7CB82LkdeHXyEo
+
+

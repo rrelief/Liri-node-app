@@ -84,18 +84,18 @@ function movieThis(){
 	//-----------------------------TWITTER FUNCTIONALITY---------------------------------------------------------------------------------------
 	// Tweet function, Twitter api --> This will show your last 20 tweets and when they were created at in your terminal/bash window
 	function myTweets() { 
-		var client = new twitter(keys.twitterKeys);
+		var client = new Twitter(keys.twitterKeys);
 		 
-		var twitterUsername = userINPUT;
+		var TwitterUsername = userINPUT;
 		var text = "text";
-		var params = {screen_name: twitterUsername, count: 20};
-		if(!twitterUsername){
-			twitterUsername = "LfaLeg";
+		var params = {screen_name: TwitterUsername, count: 20};
+		if(!TwitterUsername){
+			TwitterUsername = "OracleofRelief";
 		}
 		client.get('statuses/user_timeline', params, function(error, tweets, response) {
 		  if (!error) {
 		  	
-		  	var divider = " ================= LIRI PULLED " + twitterUsername.toUpperCase() +  "'S LAST 20 TWEETS...================\n\n";
+		  	var divider = " ================= LIRI PULLED " + TwitterUsername.toUpperCase() +  "'S LAST 20 TWEETS...================\n\n";
 		  	console.log(divider);
 		  	for (var i = 1; i < tweets.length; i++) {
 		  		var time = tweets[i].created_at;
